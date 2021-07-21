@@ -1,0 +1,2 @@
+Hello Artifactory and Sonar
+Hello Git, Terraform, Ansible and Jenkins.
